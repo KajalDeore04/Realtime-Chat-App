@@ -1,5 +1,5 @@
 # ChatApp
-
+![Demo App](https://i.ibb.co/4Y6NpCj/Screenshot-2024-11-10-123329.png)
 
 Some Features:
 
@@ -32,5 +32,3 @@ npm run build
 ```shell
 npm start
 ```
-
-![Demo App](https://ibb.co/s603qcF)
